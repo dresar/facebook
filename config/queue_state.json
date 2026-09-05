@@ -1,0 +1,92 @@
+{
+  "productionFolders": [
+    "C:\\Users\\NCN0C\\Videos\\facebook\\oupot ready"
+  ],
+  "totalVideos": 5,
+  "completedCount": 0,
+  "failedCount": 0,
+  "dailyQuota": 5,
+  "startDate": "2026-08-18",
+  "timeSlots": [
+    "09:00",
+    "12:00",
+    "15:00",
+    "18:00",
+    "21:00"
+  ],
+  "ctaText": "",
+  "createdAt": "2026-08-17T14:24:16.714Z",
+  "lastUpdated": "2026-08-17T14:24:16.715Z",
+  "queue": [
+    {
+      "index": 1,
+      "filename": "001.mp4",
+      "filePath": "C:\\Users\\NCN0C\\Videos\\facebook\\oupot ready\\001.mp4",
+      "targetSchedule": "2026-08-18T09:00",
+      "targetDate": "18/08/2026",
+      "targetTime": "09:00",
+      "cleanTitle": "Video 001",
+      "mainCaption": "COPET AUTO NANGIS?! Sering was-was pas bawa ransel di tempat rame? Cobain nih, tas ransel anti maling yang #BarangUnik #RacunShopee #SpillBarangUnik\n\n🔗 https://s.shopee.co.id/W5tdFC4Ks",
+      "status": "pending",
+      "retryCount": 0,
+      "lastAttempt": null,
+      "error": null
+    },
+    {
+      "index": 2,
+      "filename": "002.mp4",
+      "filePath": "C:\\Users\\NCN0C\\Videos\\facebook\\oupot ready\\002.mp4",
+      "targetSchedule": "2026-08-18T12:00",
+      "targetDate": "18/08/2026",
+      "targetTime": "12:00",
+      "cleanTitle": "Video 002",
+      "mainCaption": "KULKAS AUTO RAPI?! Sumpah ini penyelamat kulkas berantakan! Kantong ziplock double seal ini beneran kokoh #BarangUnik #RacunShopee #SpillBarangUnik\n\n🔗 https://s.shopee.co.id/9KhI9XYQRv",
+      "status": "pending",
+      "retryCount": 0,
+      "lastAttempt": null,
+      "error": null
+    },
+    {
+      "index": 3,
+      "filename": "003.mp4",
+      "filePath": "C:\\Users\\NCN0C\\Videos\\facebook\\oupot ready\\003.mp4",
+      "targetSchedule": "2026-08-18T15:00",
+      "targetDate": "18/08/2026",
+      "targetTime": "15:00",
+      "cleanTitle": "Video 003",
+      "mainCaption": "LIPAT TAPI JUMBO?! Buat yang hobi traveling atau mudik, wajib banget punya tas satu ini! Pas dilipat kecil #BarangUnik #RacunShopee #SpillBarangUnik\n\n🔗 https://s.shopee.co.id/5LB9ODRG8b",
+      "status": "pending",
+      "retryCount": 0,
+      "lastAttempt": null,
+      "error": null
+    },
+    {
+      "index": 4,
+      "filename": "004.mp4",
+      "filePath": "C:\\Users\\NCN0C\\Videos\\facebook\\oupot ready\\004.mp4",
+      "targetSchedule": "2026-08-18T18:00",
+      "targetDate": "18/08/2026",
+      "targetTime": "18:00",
+      "cleanTitle": "Video 004",
+      "mainCaption": "MUAT BANYAK BANGET?! Sering kesel lemari berantakan gara-gara selimut atau baju numpuk gak karuan? Pake #BarangUnik #RacunShopee #SpillBarangUnik\n\n🔗 https://s.shopee.co.id/6L3ga4I1vm",
+      "status": "pending",
+      "retryCount": 0,
+      "lastAttempt": null,
+      "error": null
+    },
+    {
+      "index": 5,
+      "filename": "005.mp4",
+      "filePath": "C:\\Users\\NCN0C\\Videos\\facebook\\oupot ready\\005.mp4",
+      "targetSchedule": "2026-08-18T21:00",
+      "targetDate": "18/08/2026",
+      "targetTime": "21:00",
+      "cleanTitle": "Video 005",
+      "mainCaption": "ANTI RIBET CLUB?! Capek banget kan kalo musti ketok-ketok botol beku cuma buat dapet es batu? 😭 Kenalin nih #BarangUnik #RacunShopee #CetakanEsBatu\n\n🔗 https://s.shopee.co.id/20uhZNEGgz",
+      "status": "pending",
+      "retryCount": 0,
+      "lastAttempt": null,
+      "error": null
+    }
+  ]
+}

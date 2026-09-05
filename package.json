@@ -1,0 +1,25 @@
+{
+  "name": "meta-business-reels-automation",
+  "version": "1.0.0",
+  "description": "Meta Business Suite Reels Bulk Uploader & Scheduler (CDP WebSocket Engine)",
+  "main": "uploader.js",
+  "scripts": {
+    "start": "node uploader.js",
+    "production": "node uploader.js --production --submit",
+    "preview": "node uploader.js --production"
+  },
+  "keywords": [
+    "meta",
+    "facebook",
+    "instagram",
+    "reels",
+    "cdp",
+    "automation",
+    "scheduler"
+  ],
+  "author": "Antigravity AI",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

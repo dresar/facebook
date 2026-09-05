@@ -1,0 +1,50 @@
+{
+  "cdp": {
+    "host": "127.0.0.1",
+    "port": 9222
+  },
+  "facebook": {
+    "base_url": "https://business.facebook.com",
+    "planner_url": "https://business.facebook.com/latest/content_calendar?business_id=622318042872290&asset_id=1305449512649082",
+    "composer_url": "https://business.facebook.com/latest/reels_composer?business_id=622318042872290&asset_id=1305449512649082",
+    "target_accounts": [
+      "KOK ADA?",
+      "kok_adasi"
+    ]
+  },
+  "production": {
+    "folders": [
+      "C:\\Users\\NCN0C\\Videos\\facebook\\oupot ready"
+    ],
+    "daily_quota": 5,
+    "time_slots": [
+      "09:00",
+      "12:00",
+      "15:00",
+      "18:00",
+      "21:00"
+    ],
+    "start_date": "2026-08-18",
+    "cta_text": ""
+  },
+  "automation": {
+    "default_mode": "schedule",
+    "start_from_planner": true,
+    "wait_for_video_upload_sec": 60,
+    "wait_for_copyright_check_sec": 45,
+    "save_screenshots": true,
+    "enable_smart_memory_purge": true,
+    "enable_story_share": false,
+    "enable_closed_captions": false,
+    "anti_bot": {
+      "human_mouse_movement": true,
+      "mouse_curve_steps": 12,
+      "typing_jitter_min_ms": 30,
+      "typing_jitter_max_ms": 80,
+      "action_delay_min_ms": 1200,
+      "action_delay_max_ms": 2500,
+      "cooldown_between_videos_sec": 12,
+      "auto_dismiss_banners": true
+    }
+  }
+}
